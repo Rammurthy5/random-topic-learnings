@@ -1,0 +1,15 @@
+
+Here is the challenge:
+
+script: challenge.py
+words:  wordlist.txt
+
+Please find the attached code called “challenge.py” and its related input example file called “wordlist.txt” with no explanations. Can you do the following?
+
+- Figure out what could be the original functionality of this piece of code;
+- Based on the above assumed goal, find out all the bugs and fix them;
+- Make it easier to read and maintain with fewer bad software practices;
+- Leverage some 3rd-party external libraries or APIs to simplify the code;
+- Design a process to test this piece of code if we want to productize it;
+- Rewrite the code with classes and proper software hierarchy.
+
