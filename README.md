@@ -1,2 +1,2 @@
 # random-learnings
-All Django practiced stuff in here. 
+Python programming concepts & implementation stuff in here. 
